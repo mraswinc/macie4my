@@ -4,7 +4,7 @@ This is a guide how to create Custom Identifier for Amazon Macie to detect Malay
 
 # Steps for Malaysia IC
 ## Create Custom Identifier
-![Screenshot for Custom Identifier](asdasd)
+![Screenshot for Custom Identifier]([asdasd](https://github.com/mraswinc/macie4my/blob/main/MacieCustomMYIC.png))
 
 Regex:
 ((([[1-9]{2})(0[1-9]|1[0-2])(0[1-9]|[12][0-9]|3[01]))-([0-9]{2})-([0-9]{4}))|(([[1-9]{2})(0[1-9]|1[0-2])(0[1-9]|[12][0-9]|3[01]))([0-9]{2})([0-9]{4})
